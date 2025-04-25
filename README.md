@@ -42,7 +42,7 @@ The following experiments were performed with the following parameters:
 - Angles: π, 2π degrees
 - Step sizes: 1, 0.5 degree steps
 - Iterations: 10, 100, 1000, 2000 iterations
-- Algorithms: SIRT and CGLS
+- Algorithms: SIRT, CGLS and BP
 
 You can access the results of these experiments [here](https://drive.google.com/drive/folders/1T54dIqOIKn_wsMlT6aMBKwZO_ZpHdUtK?usp=sharing).
 
